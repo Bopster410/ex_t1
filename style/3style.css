@@ -1,0 +1,15 @@
+a {
+    color:goldenrod;
+}
+
+a:hover {
+    color:darkkhaki;
+}
+
+a:active {
+    color:gold;
+}
+
+a:visited {
+    color:darkgrey;
+}

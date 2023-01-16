@@ -1,0 +1,15 @@
+a {
+    color:orangered;
+}
+
+a:hover {
+    color:tomato;
+}
+
+a:active {
+    color:crimson;
+}
+
+a:visited {
+    color:darkseagreen;
+}
